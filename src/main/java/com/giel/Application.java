@@ -61,6 +61,8 @@ public class Application {
         Application app = new Application();
 
 
+        // new
+
         //git test 2, additional text
 
         // Creational design patterns
