@@ -67,6 +67,8 @@ public class Application {
 //        app.FactoryExample();
 //        app.AbstractFactoryExample();
 
+        // git test another change
+
         // Structural design patterns
 //        app.AdapterExample();
 //        app.BridgeExample();
