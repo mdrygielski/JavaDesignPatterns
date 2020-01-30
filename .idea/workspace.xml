@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="59db1083-21cd-4704-941e-4e632d284d1f" name="Default Changelist" comment="additional text in second branch">
+    <list default="true" id="59db1083-21cd-4704-941e-4e632d284d1f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/giel/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/giel/Application.java" afterDir="false" />
     </list>
@@ -105,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580424967735</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="new test">
+      <created>1580426643786</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1580426643786</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,25 +123,26 @@
     <MESSAGE value="second commit to test branch" />
     <MESSAGE value="commit to master branch" />
     <MESSAGE value="additional text in second branch" />
-    <option name="LAST_COMMIT_MESSAGE" value="additional text in second branch" />
+    <MESSAGE value="new test" />
+    <option name="LAST_COMMIT_MESSAGE" value="new test" />
   </component>
   <component name="WindowStateProjectService">
     <state x="863" y="315" width="1037" height="953" key="CommitChangelistDialog2" timestamp="1580425063450">
       <screen x="0" y="0" width="2475" height="1440" />
     </state>
     <state x="863" y="315" width="1037" height="953" key="CommitChangelistDialog2/0.0.2475.1440/2560.164.1920.1080/-1920.179.1920.1080@0.0.2475.1440" timestamp="1580425063450" />
-    <state x="1098" y="644" key="Github.Dialog.Accounts.Choose" timestamp="1580426587815">
+    <state x="1098" y="644" key="Github.Dialog.Accounts.Choose" timestamp="1580426768366">
       <screen x="0" y="0" width="2475" height="1440" />
     </state>
-    <state x="1098" y="644" key="Github.Dialog.Accounts.Choose/0.0.2475.1440/2560.164.1920.1080/-1920.179.1920.1080@0.0.2475.1440" timestamp="1580426587815" />
+    <state x="1098" y="644" key="Github.Dialog.Accounts.Choose/0.0.2475.1440/2560.164.1920.1080/-1920.179.1920.1080@0.0.2475.1440" timestamp="1580426768366" />
     <state x="738" y="363" key="SettingsEditor" timestamp="1580423532799">
       <screen x="0" y="0" width="2475" height="1440" />
     </state>
     <state x="738" y="363" key="SettingsEditor/0.0.2475.1440/2560.164.1920.1080/-1920.179.1920.1080@0.0.2475.1440" timestamp="1580423532799" />
-    <state x="829" y="453" key="Vcs.Push.Dialog.v2" timestamp="1580426584014">
+    <state x="829" y="453" key="Vcs.Push.Dialog.v2" timestamp="1580426717043">
       <screen x="0" y="0" width="2475" height="1440" />
     </state>
-    <state x="829" y="453" key="Vcs.Push.Dialog.v2/0.0.2475.1440/2560.164.1920.1080/-1920.179.1920.1080@0.0.2475.1440" timestamp="1580426584014" />
+    <state x="829" y="453" key="Vcs.Push.Dialog.v2/0.0.2475.1440/2560.164.1920.1080/-1920.179.1920.1080@0.0.2475.1440" timestamp="1580426717043" />
     <state x="92" y="92" width="2291" height="1256" key="com.intellij.dvcs.ui.CompareBranchesDialog" timestamp="1580424048649">
       <screen x="0" y="0" width="2475" height="1440" />
     </state>
