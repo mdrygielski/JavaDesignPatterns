@@ -60,8 +60,7 @@ public class Application {
     public static void main(String[] args) {
         Application app = new Application();
 
-        // br1
-        // master
+        //tt1
 
         // Creational design patterns
 //        app.SingletonExample();
