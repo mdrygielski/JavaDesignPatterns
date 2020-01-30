@@ -60,11 +60,7 @@ public class Application {
     public static void main(String[] args) {
         Application app = new Application();
 
-
-        // new
-        // test
-
-        //git test 2, additional text
+        // br1
 
         // Creational design patterns
 //        app.SingletonExample();
@@ -73,7 +69,6 @@ public class Application {
 //        app.FactoryExample();
 //        app.AbstractFactoryExample();
 
-        // git test another change
 
         // Structural design patterns
 //        app.AdapterExample();
@@ -96,14 +91,7 @@ public class Application {
 //        app.strategyExample();
 //        app.templateExample();
 
-        //third branch test
         app.visitorExample();
-
-        // second branch line
-
-
-        // test no 2
-        // test line 2
     }
 
 
