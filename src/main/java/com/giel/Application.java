@@ -95,6 +95,8 @@ public class Application {
 
         //third branch test
         app.visitorExample();
+
+        // second branch line
     }
 
 
