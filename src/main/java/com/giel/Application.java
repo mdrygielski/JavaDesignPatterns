@@ -97,6 +97,10 @@ public class Application {
         app.visitorExample();
 
         // second branch line
+
+
+        // test no 2
+        // test line 2
     }
 
 
