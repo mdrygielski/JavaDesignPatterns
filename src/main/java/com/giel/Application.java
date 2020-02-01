@@ -61,6 +61,7 @@ public class Application {
         Application app = new Application();
 
         // changes marget to rebase to test branch 1
+        // changes after merge
 
         // Creational design patterns
 //        app.SingletonExample();
