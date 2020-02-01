@@ -60,7 +60,7 @@ public class Application {
     public static void main(String[] args) {
         Application app = new Application();
 
-        //cleanup on master branch
+        // changes marget to rebase to test branch 1
 
         // Creational design patterns
 //        app.SingletonExample();
