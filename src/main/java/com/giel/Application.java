@@ -65,9 +65,12 @@ public class Application {
         // line 2
         // cleanup
         //hotfix
+<<<<<<< HEAD
         // line 3
         // line 4
         // line 5
+=======
+>>>>>>> dev
 
         // Creational design patterns
 //        app.SingletonExample();
