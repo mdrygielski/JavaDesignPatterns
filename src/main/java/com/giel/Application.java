@@ -95,7 +95,7 @@ public class Application {
 //        app.stateExample();
 //        app.strategyExample();
 //        app.templateExample();
-
+    // f3
         app.visitorExample();
     }
 
