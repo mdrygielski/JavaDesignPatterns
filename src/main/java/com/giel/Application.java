@@ -71,6 +71,7 @@ public class Application {
 //        app.FactoryExample();
 //        app.AbstractFactoryExample();
 
+        //fix1
 
         // Structural design patterns
 //        app.AdapterExample();
