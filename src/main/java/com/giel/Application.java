@@ -61,7 +61,6 @@ public class Application {
         Application app = new Application();
 
         // dav changes
-        // line 1
         // cleanup
         //hotfix
 <<<<<<< HEAD
