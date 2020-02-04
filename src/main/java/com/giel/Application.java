@@ -85,6 +85,8 @@ public class Application {
 //        app.FlyweightExample();
 //        app.ProxyExample();
 
+//        hotfix
+        
         // Behavioral design patterns
 //        app.ChainOfResponsibilityExample();
 //        app.CommandExample();
