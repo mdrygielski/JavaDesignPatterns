@@ -60,9 +60,14 @@ public class Application {
     public static void main(String[] args) {
         Application app = new Application();
 
+<<<<<<< HEAD
         // dav changes
         // line 1
         // line 2
+=======
+        // cleanup
+        //hotfix
+>>>>>>> master
 
         // Creational design patterns
 //        app.SingletonExample();
