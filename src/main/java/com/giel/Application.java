@@ -83,7 +83,7 @@ public class Application {
 //        app.ProxyExample();
 
 //        hotfix
-        
+        // fix2
         // Behavioral design patterns
 //        app.ChainOfResponsibilityExample();
 //        app.CommandExample();
