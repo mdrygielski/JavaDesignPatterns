@@ -61,6 +61,7 @@ public class Application {
         Application app = new Application();
 
         // cleanup
+        // emergency line
 
         // Creational design patterns
 //        app.SingletonExample();
