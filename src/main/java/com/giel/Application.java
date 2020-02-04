@@ -81,7 +81,7 @@ public class Application {
 //        app.FacadeExample();
 //        app.FlyweightExample();
 //        app.ProxyExample();
-
+        //f4
 //        hotfix
         // fix2
         // Behavioral design patterns
