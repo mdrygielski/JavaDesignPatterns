@@ -61,15 +61,8 @@ public class Application {
         Application app = new Application();
 
         // dav changes
-        // line 1
         // cleanup
         //hotfix
-<<<<<<< HEAD
-        // line 3
-        // line 4
-        // line 5
-=======
->>>>>>> dev
 
         // Creational design patterns
 //        app.SingletonExample();
